@@ -1,2 +1,0 @@
-# testing
-for barrer auth
